@@ -31,7 +31,7 @@ The demo of yolov4-tt100k.</p>
 
 TT100k转为CoCo格式：
 
-参考：
+参考 [yolo-v3脚本](https://github.com/TalkUHulk/yolov3-TT100k/blob/main/scripts/tt100k2coco.py)
 
 `python  scripts/tt100k2coco.py`
 
